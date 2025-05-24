@@ -1,0 +1,11 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="service-updater my-servic" type="GoApplicationRunConfiguration" factoryName="Go Application">
+    <module name="consul-blocking-query-demo" />
+    <working_directory value="$PROJECT_DIR$" />
+    <kind value="PACKAGE" />
+    <package value="github.com/hashi-stack/consul-blocking-query-demo/cmd/service-updater" />
+    <directory value="$PROJECT_DIR$" />
+    <filePath value="$PROJECT_DIR$/cmd/service-updater/service_updater.go" />
+    <method v="2" />
+  </configuration>
+</component>
